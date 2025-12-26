@@ -1,0 +1,23 @@
+
+{
+  "name": "Mepdream Operation Solutions",
+  "short_name": "Mepdream",
+  "description": "Premium MEP Maintenance & Technical Solutions",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0a3d62",
+  "theme_color": "#0a3d62",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/google/material-design-icons/master/png/action/build/gw_render/24dp/2x/outline_build_black_24dp.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/google/material-design-icons/master/png/action/build/gw_render/24dp/2x/outline_build_black_24dp.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

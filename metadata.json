@@ -1,0 +1,8 @@
+{
+  "name": "Mepdream Operation Solutions - Premium Technical Services",
+  "description": "A high-end, modern React application for a technical maintenance and MEP services provider, featuring AI-powered support and sleek UI/UX.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
